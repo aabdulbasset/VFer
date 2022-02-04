@@ -11,10 +11,8 @@ VFer copies the HD link right to your clipboard for easy access and even easier 
 Also you can copy the LQ link in case you care about bandwidth.
 ## Usage/Examples
 
-```js
-Just import it in your browser as an extension
-
-```
+- Clone the repo using git clone or just download it 
+- Import it to your browser
 [How to import a unpacked extension](https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions-manually/)
 
 ## Features
