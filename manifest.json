@@ -1,0 +1,19 @@
+{
+    "name": "vFetch",
+    "description": "Fetches FB videos from groups",
+    "version": "0.3",
+    "manifest_version": 3,
+    "background": {
+        "service_worker":"background.js"
+      },
+    "action":{
+      "default_popup": "mine.html"
+    },
+    "permissions":[
+        "activeTab",
+        "clipboardWrite",
+        "tabs",
+        "scripting",
+        "webNavigation"
+    ]
+  }

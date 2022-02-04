@@ -1,0 +1,19 @@
+body{
+    width:200px;
+    border-radius: 0.35em;
+    margin:auto;
+    text-align: center;
+}
+.button{
+    display: none;
+}
+#copy{
+    padding:2px;
+    margin-top:20vh;
+    margin-bottom:10vh;
+}
+button{
+    border:1px red solid;
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
